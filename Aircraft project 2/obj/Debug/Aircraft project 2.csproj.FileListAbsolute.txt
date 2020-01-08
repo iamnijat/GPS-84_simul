@@ -1,0 +1,10 @@
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\bin\Debug\Aircraft project 2.exe.config
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\bin\Debug\Aircraft project 2.exe
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\bin\Debug\Aircraft project 2.pdb
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft project 2.csprojAssemblyReference.cache
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft_project_2.Form1.resources
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft_project_2.Properties.Resources.resources
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft project 2.csproj.GenerateResource.cache
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft project 2.csproj.CoreCompileInputs.cache
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft project 2.exe
+C:\Users\Niko\Desktop\Aircraft project 2\Aircraft project 2\obj\Debug\Aircraft project 2.pdb
